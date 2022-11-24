@@ -3,6 +3,6 @@ Ray:   Jetpack (TBD)
 Dele:  Tic-tac-toe
 Aria:  Minesweeper
 Evan:  Asteroids
-Hana:  Journey back home
+Hana:  Journey Home
 Juan:  Snake vs. blocks
 Tyler: Space invaders
